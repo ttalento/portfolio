@@ -128,7 +128,7 @@ const CONFIG = {
       to: '2023',
     },
     {
-      institution: 'Instituto Superior Técnico and Université Catholique de Louvain',
+      institution: 'Instituto Superior Técnico, Université Catholique de Louvain',
       degree: 'MSc in Biomedical Engineering',
       from: '2023',
       to: '2025',
