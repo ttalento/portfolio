@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Tomás Talento', description: '', imageURL: '' },
   social: {
-    linkedin: 'tomás-talento-65388636b',
+    linkedin: 'tomas-talento',
     x: '',
     mastodon: '',
     researchGate: '',
